@@ -18,8 +18,8 @@ A simple, clean HTML guide showcasing the latest features of the **Remini app** 
 
 You can view the guide live using GitHub Pages 
 
-https://remini555.github.io/remini-features-guide/
-Replace `yourusername` with your GitHub username.
+https://Remini555.github.io/remini-features-guide/
+
 
 ## 🚀 How to Use
 
