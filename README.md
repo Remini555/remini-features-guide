@@ -12,7 +12,7 @@ A simple, clean HTML guide showcasing the latest features of the **Remini app** 
 
 ## 📁 Files
 
-- `remini-features.html` — Main HTML file for the feature guide
+- `index2.html` — Main HTML file for the feature guide
 
 ## 🌐 View Live
 
